@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2018/10/17 0017.
- */
 //1,引入express
 var express = require('express');
 var app = express();
