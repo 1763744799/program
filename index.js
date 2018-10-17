@@ -61,5 +61,5 @@ app.get('/single',function (req,res) {
 app.get('/terms',function (req,res) {
     res.render("terms");
 });
-
+//启动
 app.listen(9999);
